@@ -1,0 +1,45 @@
+body{
+    background-color: yellowgreen;
+}
+#main_box{
+    height:170px;
+    width:100%;
+    background-color: blanchedalmond;
+}
+#main_contents{
+    display:flex;
+}
+.image_spacing{
+    margin-left:70px;
+    margin-top: 10px;
+}
+.main_images{
+    width:200px;
+    height:140px;
+    margin-left: 30px;
+}
+.main_matter{
+    margin-left: 80px;
+}
+#text_bar{
+    margin-top: 40px;
+    margin-left:50px;
+    width:300px;
+    height:20px;
+}
+.task_matter{
+    margin-left: 160px;
+}
+.m_image_spacing{
+    margin-left:150px;
+    margin-top: 10px;
+}
+#middle_contents{
+    display:flex;
+}
+#middle_box{
+    height:170px;
+    width:100%;
+    background-color: blanchedalmond;
+    margin-top: 50px;
+}

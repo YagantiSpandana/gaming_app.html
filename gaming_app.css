@@ -1,0 +1,16 @@
+form{
+    width:500px;
+    height:200px;
+    background-color: aquamarine;
+    margin-left:400px;
+    margin-right:250px;
+    margin-top: 50px;
+    padding-top:200px;
+}
+#form_elements{
+    margin-left: 100px;
+}
+#submit{
+    margin-left: 100px;
+}
+
